@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Products list</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="product_actions_title">Select action</string>
+    <string name="product_actions_edit">Edit</string>
+    <string name="product_actions_delete">Delete</string>
+
+    <string name="product_details">Details</string>
+    <string name="product_name">Product name</string>
+    <string name="product_amount">Amount</string>
+    <string name="product_price">Price</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="save">Save</string>
+
+    <string name="item_price">Price: %,.2f</string>
+    <string name="item_amount">Amount: %,d</string>
+
+    <string name="product_validation_empty_name_error">Product name should not be empty</string>
+    <string name="product_validation_amount_error">Amount should be in [%1$,d; %2$,d]</string>
+    <string name="product_validation_price_error">Price should be in [%1$,.1f; %2$,.1f]</string>
+
+</resources>
